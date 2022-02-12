@@ -20,5 +20,5 @@ War details tab:
 ![alt text](https://i.imgur.com/LS5G8tg.png "War details tab")
 Battle details tab:
 ![alt text](https://i.imgur.com/IB5xqV6.png "Battle details tab")
-Wargoals tab:
+AI Dual Monarchy doing typical AI things:
 ![alt text](https://i.imgur.com/bsyYUcc.png "Average AI Dual Monarchy")
